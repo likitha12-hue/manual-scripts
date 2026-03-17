@@ -1,0 +1,16 @@
+CONFIG DRIFT REPORT
+Generated at: 2026-03-17 13:01:38.804465
+========================================
+
+Missing Services:
+- nginx
+- docker
+
+Closed Ports:
+None
+
+Missing Files:
+- /etc/nginx/nginx.conf
+
+Auto-Fixed Services:
+None

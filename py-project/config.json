@@ -1,0 +1,5 @@
+{
+  "services": ["nginx", "docker"],
+  "ports": [80, 22],
+  "files": ["/etc/nginx/nginx.conf"]
+}
